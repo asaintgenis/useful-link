@@ -7,3 +7,7 @@ Here come my collection of useful link, mainly about Java, Git, Go and Javascrip
 ## Go
 
 * [Ressource for go beginner](https://dave.cheney.net/resources-for-new-go-programmers)
+
+## Misc
+
+* [Regex editor](https://regex101.com) - Awesome regex editor with references, explanations and testing
