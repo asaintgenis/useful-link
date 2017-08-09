@@ -4,6 +4,7 @@ Here come my collection of useful link, mainly about Java, Git, Go and Javascrip
 
 * [Lesser know git commands](https://hackernoon.com/lesser-known-git-commands-151a1918a60) - Some useful alias to simplify life
 * [Little thing I like to do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - Some nice alias and commands
+* [Git-Rebase (In french)](https://www.miximum.fr/blog/git-rebase/) - Fully understand the magic of git-rebase
 
 ## Go
 
