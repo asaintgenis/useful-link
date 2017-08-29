@@ -6,6 +6,10 @@ Here come my collection of useful link, mainly about Java, Git, Go and Javascrip
 * [Little thing I like to do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - Some nice alias and commands
 * [Git-Rebase (In french)](https://www.miximum.fr/blog/git-rebase/) - Fully understand the magic of git-rebase
 
+## Java
+
+* [Concatenate string in Java 8](http://developersjournal.in/concatenate-strings-java-8/) - Some examples of String.join()
+
 ## Go
 
 * [Ressource for go beginner](https://dave.cheney.net/resources-for-new-go-programmers)
