@@ -9,7 +9,7 @@ Here come my collection of useful link, mainly about Java, Git, Go and Javascrip
 ## Go
 
 * [Ressource for go beginner](https://dave.cheney.net/resources-for-new-go-programmers)
-* [Creating my frist web application with Go](http://rosalita.github.io/building-a-web-app-with-go/) - Step by step example to create a little website using Go
+* [Creating my first web application with Go](http://rosalita.github.io/building-a-web-app-with-go/) - Step by step example to create a little website using Go
 * [Basic Tutorial on Go Microservice](https://gokit.io/examples/stringsvc.html) - step by step example to create a little microservices to manipulate string
 
 ## Misc
