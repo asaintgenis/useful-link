@@ -1,5 +1,9 @@
 Here come my collection of useful link, mainly about Java, Git, Go and Javascript
 
+## Linux
+
+* [Quick guide to tmux](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) - The basic of tmux
+
 ## Git
 
 * [Lesser know git commands](https://hackernoon.com/lesser-known-git-commands-151a1918a60) - Some useful alias to simplify life
