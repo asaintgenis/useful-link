@@ -19,6 +19,7 @@ Here come my collection of useful link, mainly about Java, Git, Go and Javascrip
 * [Ressource for go beginner](https://dave.cheney.net/resources-for-new-go-programmers)
 * [Creating my first web application with Go](http://rosalita.github.io/building-a-web-app-with-go/) - Step by step example to create a little website using Go
 * [Basic Tutorial on Go Microservice](https://gokit.io/examples/stringsvc.html) - step by step example to create a little microservices to manipulate string
+* [Build a concept blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/) - Step by step example of a blockchain conception using Go
 
 ## Misc
 
