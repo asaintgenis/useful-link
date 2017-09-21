@@ -26,3 +26,4 @@ Here come my collection of useful link, mainly about Java, Git, Go and Javascrip
 * [Regex editor](https://regex101.com) - Awesome regex editor with references, explanations and testing
 * [VIM adventure](https://vim-adventures.com/) - Learn to use VIM, the game way
 * [VisualAlgo](https://visualgo.net/en) - Understand common algorithm in a very visual way
+* [Markdown syntax](https://daringfireball.net/projects/markdown/syntax) - Great site about markdown and its syntax
