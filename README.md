@@ -20,6 +20,8 @@ Here come my collection of useful link, mainly about Java, Git, Go and Javascrip
 * [Creating my first web application with Go](http://rosalita.github.io/building-a-web-app-with-go/) - Step by step example to create a little website using Go
 * [Basic Tutorial on Go Microservice](https://gokit.io/examples/stringsvc.html) - step by step example to create a little microservices to manipulate string
 * [Build a concept blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/) - Step by step example of a blockchain conception using Go
+* [What I learned in 2017 Writing Go](https://www.commandercoriander.net/blog/2017/12/31/writing-go/) - List problematic points after extensive use of Go
+* [Style guideline for Go packages](https://rakyll.org/style-packages/) - Good guide to styling in Go
 
 ## Misc
 
