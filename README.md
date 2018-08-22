@@ -3,6 +3,7 @@ Here come my collection of useful link, mainly about Java, Git, Go and Javascrip
 ## Linux
 
 * [Quick guide to tmux](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) - The basic of tmux
+* [Noobs Term](https://noobs-term.com/) - a oriented out of the box installation for an useful terminal
 
 ## Git
 
