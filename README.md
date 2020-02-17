@@ -24,6 +24,7 @@ Here come my collection of useful link, mainly about Java, Git, Go and Javascrip
 * [What I learned in 2017 Writing Go](https://www.commandercoriander.net/blog/2017/12/31/writing-go/) - List problematic points after extensive use of Go
 * [Style guideline for Go packages](https://rakyll.org/style-packages/) - Good guide to styling in Go
 * [go-perfbook](https://github.com/dgryski/go-perfbook) - Writing high-performance Go code
+* [rakyll blog](https://rakyll.org/) - misc blog about go from core team dev
 
 ## Misc
 
