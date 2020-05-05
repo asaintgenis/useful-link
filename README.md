@@ -25,6 +25,7 @@ Here come my collection of useful link, mainly about Java, Git, Go and Javascrip
 * [Style guideline for Go packages](https://rakyll.org/style-packages/) - Good guide to styling in Go
 * [go-perfbook](https://github.com/dgryski/go-perfbook) - Writing high-performance Go code
 * [rakyll blog](https://rakyll.org/) - misc blog about go from core team dev
+* [Getting started AWS SAM With Go](https://www.melvinvivas.com/aws-lambda-go-sam/) - blog post to setup a basic AWS SAM projet using Go
 
 ## Misc
 
